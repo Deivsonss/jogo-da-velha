@@ -10,3 +10,7 @@
 
 - ❌ Deivson 1
 - ⭕ Deivson 2
+
+**Resultado**
+
+Empate, sem Vencedores
